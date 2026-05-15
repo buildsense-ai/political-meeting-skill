@@ -1,0 +1,16 @@
+config.json
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.tmp
+~$*
+*.docx
+*.doc
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.xls
+*.xlsx
